@@ -1,6 +1,6 @@
 baseURL = "https://kanykohsen.com"
-languageCode = "en-us"
-defaultContentLanguage = "jp"
+languageCode = "ja"
+defaultContentLanguage = "ja"
 title = "KANY KOHSEN"
 theme = "hermit"
 # enableGitInfo = true
